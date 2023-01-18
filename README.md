@@ -7,3 +7,4 @@ A list of tools you can use to build your next project in Ethiopia.
 - [Afro Message](https://www.afromessage.com/)
 - [GeezSMS](https://geezsms.com/)
 - [Negarit SMS](https://www.negarit.net/)
+- [Hahu](https://hahu.io/)
