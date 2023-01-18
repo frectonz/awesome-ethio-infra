@@ -1,6 +1,6 @@
 # Awesome Ethiopian Infrastructure Providers
 
-A list tools you can use to build your next project in Ethiopia.
+A list of tools you can use to build your next project in Ethiopia.
 
 ## SMS Providers
 
