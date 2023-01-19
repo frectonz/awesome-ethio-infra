@@ -8,3 +8,7 @@ A list of tools you can use to build your next project in Ethiopia.
 - [GeezSMS](https://geezsms.com/)
 - [Negarit SMS](https://www.negarit.net/)
 - [Hahu](https://hahu.io/)
+
+## Payment Gateways
+
+- [Chapa](https://chapa.co/)
