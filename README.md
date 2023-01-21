@@ -12,3 +12,4 @@ A list of tools you can use to build your next project in Ethiopia.
 ## Payment Gateways
 
 - [Chapa](https://chapa.co/)
+- [Santim Pay](https://santimpay.com/services/gateway)
