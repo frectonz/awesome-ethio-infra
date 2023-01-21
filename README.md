@@ -13,3 +13,7 @@ A list of tools you can use to build your next project in Ethiopia.
 
 - [Chapa](https://chapa.co/)
 - [Santim Pay](https://santimpay.com/services/gateway)
+
+## Hosting
+
+- [Yegara (የጋራ) Web Host](https://yegara.com/)
