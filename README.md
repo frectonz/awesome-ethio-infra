@@ -18,3 +18,4 @@ A list of tools you can use to build your next project in Ethiopia.
 
 - [Yegara (የጋራ) Web Host](https://yegara.com/)
 - [HahuCloud](https://www.hahucloud.com/)
+- [Ethio Telecom Hosting](https://myportal.ethiotelecom.et/)
